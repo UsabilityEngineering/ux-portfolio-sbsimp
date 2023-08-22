@@ -1,6 +1,6 @@
 Samuel's UX Portfolio
 
-(https://github.com/UsabilityEngineering/ux-portfolio-sbsimp/blob/master/assets/Profile.png)
+[(https://github.com/UsabilityEngineering/ux-portfolio-sbsimp/blob/master/assets/Profile.png)](https://github.com/UsabilityEngineering/ux-portfolio-sbsimp/blob/master/assets/Profile.png)
 
 My name is Samuel. Im a CAGD major. I am taking this class because I found the class subject interesting.
 
