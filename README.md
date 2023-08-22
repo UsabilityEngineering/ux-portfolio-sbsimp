@@ -1,6 +1,8 @@
-# UX Portfolio
+Samuel's UX Portfolio
 
-About me...
+
+
+My name is Samuel. Im a CAGD major. I am taking this class because I found the class subject interesting.
 
 ## UX Team Project
 
