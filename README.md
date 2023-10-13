@@ -10,4 +10,5 @@ Coming soon.
 
 ## UX Journal
 
+[First Journel Entry](j01/)
 [Read about my experience with Bash](j01/)
