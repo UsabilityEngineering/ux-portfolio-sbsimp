@@ -9,4 +9,5 @@
    ![pic of booklet1](/assets/booklet1.png)
    
    ![pic of booklet2](/assets/booklet2.png)
+   
    Once learning of this, I thought it was a weird design decision to have to twist a dial for cold air and press another button that offically turns on the a/c. I feel like the easiest way to address this issue to improve efficiency is to just have the dial and by twisting it to cold, got you cold air. 
